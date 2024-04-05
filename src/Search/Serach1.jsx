@@ -7,7 +7,7 @@ import Table2 from '../Admin/Table2'
 function Serach1() {
   return (
     <div className='flex'>
-                <div className='w-[253px]'>
+                <div className=''>
                     <Sidebar />
                 </div>
                 <div className='w-full'>

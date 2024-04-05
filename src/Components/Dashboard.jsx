@@ -8,8 +8,8 @@ function Dashboard() {
     return (
         <>
              <div className='flex'>
-                <div className='w-[253px]'>
-                    <Sidebar />
+                <div className=''>
+                    <Sidebar/>
                 </div>
                 <div className='w-full'>
                     <Header />

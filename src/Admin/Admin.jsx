@@ -7,7 +7,7 @@ import Table2 from './Table2'
 function Admin() {
     return (
         <div className='flex'>
-                <div className='w-[253px]'>
+                <div className=''>
                     <Sidebar />
                 </div>
                 <div className='w-full'>

@@ -6,7 +6,7 @@ import Table4 from './Table4'
 function Solution1() {
   return (
     <div className='flex'>
-                <div className='w-[253px]'>
+                <div className=''>
                     <Sidebar />
                 </div>
                 <div className='w-full'>
